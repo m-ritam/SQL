@@ -1,4 +1,4 @@
-CREATE database AutomationofInsurance;
+CREATE database AutomationofInsurance;  -- creating database
 USE AutomationofInsurance;
 CREATE TABLE Customer (
     CustomerId INT PRIMARY KEY,
